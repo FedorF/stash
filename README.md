@@ -1,2 +1,2 @@
 # stash
-Some helpful functions
+Some helpful staff
